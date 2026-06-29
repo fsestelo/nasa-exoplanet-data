@@ -26,12 +26,11 @@ Make sure you have the following installed:
 
 This project uses the following Python libraries:
 
-* pandas
-* matplotlib
-* seaborn
-* plotly
-* hvplot
-* pathlib (built-in)
+* **pandas** – Data manipulation and analysis
+* **matplotlib** – Static data visualization
+* **seaborn** – Statistical data visualization
+* **plotly** – Interactive visualizations
+* **hvPlot** – High-level plotting API for pandas
 
 Install all dependencies with:
 
@@ -79,7 +78,7 @@ Validation is performed by executing every notebook cell successfully and verify
 
 ---
 
-# Project Instructions
+# Project Content
 
 The notebook completes the following tasks:
 
@@ -92,18 +91,6 @@ The notebook completes the following tasks:
 * Identify the most common exoplanet discovery methods.
 * Create visualizations to support data interpretation.
 * Draw conclusions based on exploratory data analysis.
-
----
-
-# Built With
-
-* **Python** – Programming language
-* **Jupyter Notebook** – Interactive development environment
-* **Pandas** – Data manipulation and analysis
-* **Matplotlib** – Static data visualization
-* **Seaborn** – Statistical data visualization
-* **Plotly Express** – Interactive visualizations
-* **hvPlot** – High-level plotting API for pandas
 
 ---
 
